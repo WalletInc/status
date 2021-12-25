@@ -4,9 +4,9 @@
     "url": "$DEV_SMS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-sms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 395,
     "timeMonth": 374,
     "timeYear": 366,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-25": 0
+    }
   },
   {
     "name": "Dev Membership",
     "url": "$DEV_MEMBERSHIP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-membership",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,14 +35,16 @@
     "timeWeek": 1186,
     "timeMonth": 1183,
     "timeYear": 1111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-25": 0
+    }
   },
   {
     "name": "Dev Voucher",
     "url": "$DEV_VOUCHER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-voucher",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 729,
     "timeMonth": 748,
     "timeYear": 783,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-25": 0
+    }
   }
 ]
