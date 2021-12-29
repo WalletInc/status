@@ -4,7 +4,10 @@ repo: status # The name of this repository
 # user-agent: apratheek
 
 sites:
-  
+  - name: Administrative Portal
+    url: $PROD_ADMIN_URL
+  - name: API
+    url: $PROD_API_URL
     
 assignees: # Users to assign downtime issues
   - apratheek
