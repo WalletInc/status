@@ -4,12 +4,11 @@ repo: status # The name of this repository
 # user-agent: apratheek
 
 sites:
-  - name: Dev SMS
-    url: $DEV_SMS
-  - name: Dev Membership
-    url: $DEV_MEMBERSHIP
-  - name: Dev Voucher
-    url: $DEV_VOUCHER
+  - name: Administrative Portal
+    url: $PROD_ADMIN_URL
+  - name: API
+    url: $PROD_API_URL
+  
     
 assignees: # Users to assign downtime issues
   - apratheek
