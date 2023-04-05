@@ -6,14 +6,14 @@
     "slug": "administrative-portal",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "78.19%",
-    "uptimeWeek": "86.83%",
+    "uptimeDay": "90.28%",
+    "uptimeWeek": "88.66%",
     "uptimeMonth": "96.76%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.26%",
     "time": 454,
-    "timeDay": 491,
-    "timeWeek": 335,
-    "timeMonth": 397,
+    "timeDay": 473,
+    "timeWeek": 355,
+    "timeMonth": 394,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2023-04-04": 154,
@@ -49,8 +49,7 @@
       "2022-06-21": 12,
       "2022-06-07": 27,
       "2022-05-26": 19,
-      "2022-05-11": 11,
-      "2022-04-05": 443
+      "2022-05-11": 11
     }
   },
   {
@@ -60,14 +59,14 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "79.99%",
-    "uptimeWeek": "92.76%",
+    "uptimeDay": "92.06%",
+    "uptimeWeek": "93.44%",
     "uptimeMonth": "98.33%",
-    "uptimeYear": "99.42%",
-    "time": 807,
-    "timeDay": 319,
-    "timeWeek": 289,
-    "timeMonth": 455,
+    "uptimeYear": "99.48%",
+    "time": 806,
+    "timeDay": 380,
+    "timeWeek": 318,
+    "timeMonth": 451,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2023-04-04": 129,
@@ -88,8 +87,7 @@
       "2022-09-11": 18,
       "2022-09-06": 546,
       "2022-09-05": 277,
-      "2022-08-24": 11,
-      "2022-04-05": 443
+      "2022-08-24": 11
     }
   }
 ]
