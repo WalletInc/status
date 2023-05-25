@@ -4,13 +4,13 @@
     "url": "$PROD_ADMIN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administrative-portal",
-    "status": "up",
-    "uptime": "99.50%",
+    "status": "down",
+    "uptime": "99.51%",
     "uptimeDay": "97.37%",
     "uptimeWeek": "96.33%",
     "uptimeMonth": "98.08%",
-    "uptimeYear": "99.30%",
-    "time": 494,
+    "uptimeYear": "99.31%",
+    "time": 493,
     "timeDay": 223,
     "timeWeek": 701,
     "timeMonth": 605,
@@ -70,8 +70,7 @@
       "2022-11-29": 12,
       "2022-11-07": 29,
       "2022-10-18": 21,
-      "2022-10-04": 29,
-      "2022-09-11": 18
+      "2022-10-04": 29
     }
   },
   {
