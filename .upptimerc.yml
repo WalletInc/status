@@ -32,8 +32,8 @@ status-website:
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: WalletInc
-  introTitle: "WalletInc's Status Page"
-  introMessage: This is the status page that displays the status of all the microservices
+  introTitle: "Wallet Inc's Status Page"
+  introMessage: This is the status page that displays the status of the wall.et domain.
   navbar:
     - title: Status
       href: /
