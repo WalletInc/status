@@ -1,7 +1,7 @@
 url: $PROD_ADMIN_URL
 status: up
 code: 200
-responseTime: 564
-lastUpdated: 2023-09-28T23:01:08.755Z
+responseTime: 400
+lastUpdated: 2023-09-29T23:01:10.402Z
 startTime: 2021-12-29T04:05:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
