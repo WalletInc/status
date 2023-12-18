@@ -1,7 +1,7 @@
 url: $PROD_API_URL
 status: up
 code: 200
-responseTime: 771
-lastUpdated: 2023-12-17T23:01:01.837Z
+responseTime: 407
+lastUpdated: 2023-12-18T23:01:03.499Z
 startTime: 2021-12-29T04:05:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
